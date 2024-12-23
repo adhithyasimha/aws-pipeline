@@ -100,3 +100,5 @@ The pipeline consists of the following components:
 
 
 
+## Note
+Please check the `Result.csv` file in the S3 bucket and  email file  (as configured in SNS) to verify the working of SNS notifications and data ingestion into DynamoDB.
