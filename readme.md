@@ -95,4 +95,7 @@ The pipeline consists of the following components:
    - Sends an email notification using SNS.
 3. **DynamoDB (store metadata)**: Stores metadata extracted from the CSV files.
 4. **SNS (email notification)**: Sends notifications about successful CSV uploads.
+![Screenshot 2024-12-23 at 2 38 31 PM](https://github.com/user-attachments/assets/e4d1cbc4-30c1-4a9f-b33e-1e155657e564)
+
+
 
